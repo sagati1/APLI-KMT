@@ -1,7 +1,9 @@
 # bus_schedule_app
 
 A new Flutter project.
+Aapli KMT is a lightweight, offline-first mobile application designed to simplify public transport access for citizens of Kolhapur. The app provides accurate daily schedules of Kolhapur Municipal Transport (KMT) buses, organized by routes and intervals, even without an internet connection.
 
+Built using Flutter and Java, the app ensures smooth performance on low-end devices and helps users easily find bus arrival times, stop names, and travel durations. It’s a practical solution for daily commuters who need dependable, fast access to public transport information.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
