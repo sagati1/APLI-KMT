@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446407293169",
+    "project_id": "bus-schedule-app-9c71e",
+    "storage_bucket": "bus-schedule-app-9c71e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446407293169:android:75c6becf28bcdcf0fe1150",
+        "android_client_info": {
+          "package_name": "com.example.bus_schedule_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446407293169-u2oe2ho9bum0o093s3f5gfeg397ii92k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus_schedule_app",
+            "certificate_hash": "a1328340b62da41d7f50995fdcd9eeb83e090280"
+          }
+        },
+        {
+          "client_id": "446407293169-etvot1ka9f1elude2r98avrcja90k3fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIai8SgW93vuw9dxqcQTGGyVdq_aIokRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446407293169-etvot1ka9f1elude2r98avrcja90k3fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

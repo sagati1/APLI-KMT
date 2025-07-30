@@ -1,0 +1,2 @@
+C:/Users/sagar/Aapli kmt/busScheduleProject/busScheduleProject/android/app/.cxx/RelWithDebInfo/963j2r5c/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/sagar/Aapli kmt/busScheduleProject/busScheduleProject/android/app/.cxx/RelWithDebInfo/963j2r5c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
